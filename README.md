@@ -9,6 +9,9 @@ EduAI is a Python chatbot that aids in learning programming languages, providing
 - Incorporates a text-to-speech feature, enhancing accessibility for visually impaired or differently-abled individuals.
 - Includes an interactive feature that allows users to select a question and receive an immediate, accurate answer.
 
+
 <img width="5884" alt="screenshot" src="https://github.com/user-attachments/assets/42c8de72-7c75-40c1-b8a1-59194eea0bd5">
+
 <img width="5884" alt="screenshot1" src="https://github.com/user-attachments/assets/7d270516-94a2-4646-8bba-14ac4975602d">
+
 ![Uploading screenshot2.jpeg…]()
