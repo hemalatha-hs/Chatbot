@@ -12,7 +12,9 @@ EduAI is a Python chatbot that aids in learning programming languages, providing
 
 <img width="5884" alt="screenshot" src="https://github.com/user-attachments/assets/42c8de72-7c75-40c1-b8a1-59194eea0bd5">
 
+
 <img width="5884" alt="screenshot1" src="https://github.com/user-attachments/assets/7d270516-94a2-4646-8bba-14ac4975602d">
+
 
 ![screenshot2](https://github.com/user-attachments/assets/7d3ab782-251b-409a-9187-8cc587796ac6)
 
